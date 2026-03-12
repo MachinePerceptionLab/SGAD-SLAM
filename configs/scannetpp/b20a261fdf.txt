@@ -1,0 +1,4 @@
+## camera parameters
+W H fx fy cx cy depth_scale depth_trunc dataset_type use_train_split
+876 584 312.7099188244687 313.5121746848229 438.0 292.0 1000.0 12.0 scannetpp True
+

@@ -1,0 +1,5 @@
+inherit_from: configs_map/Replica/replica.yaml
+data:
+  scene_name: office2
+  input_path: dataset/Replica/office2/
+  output_path: experiments/results/office2/

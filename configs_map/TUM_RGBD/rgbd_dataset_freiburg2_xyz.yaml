@@ -1,0 +1,15 @@
+inherit_from: configs_map/TUM_RGBD/tum_rgbd.yaml
+data:
+  input_path: dataset/TUM/rgbd_dataset_freiburg2_xyz
+  output_path: experiments/results/rgbd_dataset_freiburg2_xyz/
+  scene_name: rgbd_dataset_freiburg2_xyz
+cam:  #intrinsic is different per scene in TUM
+  H: 480 
+  W: 640 
+  fx: 520.9
+  fy: 521.0
+  cx: 325.1
+  cy: 249.7
+  crop_edge: 8
+  distortion: [0.2312, -0.7849, -0.0033, -0.0001, 0.9172]
+

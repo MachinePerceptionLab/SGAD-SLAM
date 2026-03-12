@@ -1,0 +1,4 @@
+# ninja log v5
+0	8039	1741729623841222173	/data/pengchong_hu/SPAGAD_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	c4e08d3617723322
+0	17825	1741729633634204932	/data/pengchong_hu/SPAGAD_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	c4908b3368aa6647
+0	43663	1741729659440159476	/data/pengchong_hu/SPAGAD_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	cb7780cf64a2bb25

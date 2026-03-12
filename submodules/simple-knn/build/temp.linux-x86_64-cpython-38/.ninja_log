@@ -1,0 +1,7 @@
+# ninja log v5
+0	7843	1736487074895825586	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	19c90d51b34df412
+0	17720	1736487084771794146	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	fd547539e8356ec1
+1	42472	1736487109513715328	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	13673f79de750960
+16	7805	1736487709023789407	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	9cf4ed1c77d9a505
+16	17390	1736487718591758503	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	fd547539e8356ec1
+17	38459	1736487739660690441	/data/pengchong_hu/GS_ICP_SLAM/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	e6bb090fb6ed5d3

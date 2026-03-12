@@ -1,0 +1,5 @@
+inherit_from: configs_map/Replica/replica.yaml
+data:
+  scene_name: room1
+  input_path: dataset/Replica/room1/
+  output_path: experiments/results/room1/

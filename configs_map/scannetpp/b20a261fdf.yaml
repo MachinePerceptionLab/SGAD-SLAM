@@ -1,0 +1,15 @@
+
+inherit_from: configs_map/scannetpp/scannetpp.yaml
+data:
+  input_path: dataset/scannetpp/data/b20a261fdf
+  output_path: experiments/results/b20a261fdf
+  scene_name: "b20a261fdf"
+  use_train_split: True
+  frame_limit: 250
+cam:
+  H: 584
+  W: 876
+  fx: 312.7099188244687
+  fy: 313.5121746848229
+  cx: 438.0
+  cy: 292.0
