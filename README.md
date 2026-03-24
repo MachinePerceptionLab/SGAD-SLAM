@@ -8,7 +8,7 @@
 
   </p>
   <h2 align="center">CVPR 2026</h2>
-  <h3 align="center"><a href="">Paper</a> | <a href="https://machineperceptionlab.github.io/SGAD-SLAM-Project/">Project Page</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2603.21055">Paper</a> | <a href="https://machineperceptionlab.github.io/SGAD-SLAM-Project/">Project Page</a> </h3>
   <div align="center"></div>
 </p>
 
